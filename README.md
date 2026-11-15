@@ -192,7 +192,7 @@ A group with excellent individual qubits may still be unsuitable if the qubits a
 
 ## 👩‍💻 Author
 
-**Hasitha Varma**
+**Hasitha Chekuri**
 
 B.Tech – Computer Science and Engineering
 
@@ -203,7 +203,7 @@ B.Tech – Computer Science and Engineering
 Run the Jupyter Notebook with the calibration and topology files available in the same project directory.
 
 ```text
-HASITHA_VARMA_ASSIGNMENT.ipynb
+HASITHA_CHEKURI_ASSIGNMENT.ipynb
 ```
 
 The notebook contains the complete analysis, methodology, candidate search, validation, and final recommendations.
